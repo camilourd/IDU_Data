@@ -8,7 +8,7 @@
         "longitude" : -74.104377
     },
     {
-        "type" : 1,
+        "type" : 2,
         "locality" : 0,
         "percent": 45,
         "description": "Obra Antonio Nariño 2",
@@ -32,7 +32,7 @@
         "longitude" : -74.101957
     },
     {
-        "type" : 1,
+        "type" : 2,
         "locality" : 0,
         "percent": 45,
         "description": "Obra Antonio Nariño 5",
@@ -56,7 +56,7 @@
         "longitude" : -74.079065
     },
     {
-        "type" : 1,
+        "type" : 2,
         "locality" : 1,
         "percent": 45,
         "description": "Obra Barrios Unidos 3",
@@ -64,7 +64,7 @@
         "longitude" : -74.081662
     },
     {
-        "type" : 1,
+        "type" : 2,
         "locality" : 1,
         "percent": 45,
         "description": "Obra Barrios Unidos 4",
@@ -88,7 +88,7 @@
         "longitude" : -74.191642
     },
     {
-        "type" : 1,
+        "type" : 2,
         "locality" : 2,
         "percent": 45,
         "description": "Obra Bosa 2",
@@ -104,7 +104,7 @@
         "longitude" : -74.183327
     },
     {
-        "type" : 1,
+        "type" : 2,
         "locality" : 2,
         "percent": 45,
         "description": "Obra Bosa 4",
@@ -120,7 +120,7 @@
         "longitude" : -74.188063
     },
     {
-        "type" : 1,
+        "type" : 2,
         "locality" : 3,
         "percent": 45,
         "description": "Obra Chapinero 1",
@@ -128,7 +128,7 @@
         "longitude" : -74.069445
     },
     {
-        "type" : 1,
+        "type" : 2,
         "locality" : 3,
         "percent": 45,
         "description": "Obra Chapinero 2",
@@ -136,7 +136,7 @@
         "longitude" : -74.074761
     },
     {
-        "type" : 1,
+        "type" : 2,
         "locality" : 3,
         "percent": 45,
         "description": "Obra Chapinero 3",
