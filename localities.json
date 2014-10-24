@@ -155,7 +155,7 @@
         "name":"Usme",
         "maint":7,
         "cons":8,
-        "latitude"4.3900250090727,
+        "latitude": 4.3900250090727,
         "longitude":-74.142806583082,
         "boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/Usme.json"
    }
