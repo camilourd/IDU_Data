@@ -158,5 +158,5 @@
         "latitude"4.3900250090727,
         "longitude":-74.142806583082,
         "boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/Usme.json"
-    }
-];
+   }
+]
