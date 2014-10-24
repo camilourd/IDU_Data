@@ -1,0 +1,162 @@
+[
+	{
+		"name":"Antonio Nariño",
+		"maint":7,
+		"cons":98,
+		"latitude":4.58877067503028,
+		"longitude":-74.1028424011415,
+		"boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/AntonioNarino.json"
+	},
+	{
+		"name":"Barrios Unidos",
+		"maint":7,
+		"cons":8,
+		"latitude":4.6695669337193,
+		"longitude":-74.0735516053363,
+		"boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/BarriosUnidos.json"
+	},
+	{
+		"name":"Bosa",
+		"maint":7,
+		"cons":8,
+		"latitude":4.62177744096788,
+		"longitude":-74.1943874469536,
+		"boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/Bosa.json"
+	},
+	{
+		"name":"Chapinero",
+		"maint":7,
+		"cons":998,
+		"latitude":4.64498272017399,
+		"longitude":-74.0368830256635,
+		"boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/Chapinero.json"
+	},
+	{
+		"name":"Ciudad Bolivar",
+		"maint":7,
+		"cons":8,
+		"latitude":4.48244954764114,
+		"longitude":-74.1619573092099,
+		"boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/CuidadBolivar.json"
+	},
+	{
+		"name":"Engativá",
+		"maint":7,
+		"cons":8,
+		"latitude":4.70112556225215,
+		"longitude":-74.1131877021726,
+		"boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/Engativa.json"
+	},
+	{
+		"name":"Fontibón",
+		"maint":7,
+		"cons":8,
+		"latitude":4.67818292491529,
+		"longitude":-74.140151298465,
+		"boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/Fontibon.json"
+	},
+	{
+		"name":"Kennedy",
+		"maint":7,
+		"cons":8,
+		"latitude":4.63034735100552,
+		"longitude":-74.1526676235548,
+		"boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/Kennedy.json"
+	},
+	{
+		"name":"La Candelaria",
+		"maint":7,
+		"cons":8,
+		"latitude":4.59660507539513,
+		"longitude":-74.0720707956031,
+		"boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/Candelaria.json"
+	},
+	{
+		"name":"Los Mártires",
+		"maint":7,
+		"cons":8,
+		"latitude":4.6071559352803,
+		"longitude":-74.0879478683923,
+		"boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/Martires.json"
+	},
+	{
+		"name":"Puente Aranda",
+		"maint":7,
+		"cons":8,
+		"latitude":4.61624547044465,
+		"longitude":-74.1115802339541,
+		"boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/PuenteAranda.json"
+	},
+	{
+		"name":"Rafael Uribe Uribe",
+		"maint":7,
+		"cons":8,
+		"latitude":4.56647690107243,
+		"longitude":-74.1133631832176,
+		"boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/RafaelUribeUribe.json"
+	},
+	{
+		"name":"San Cristóbal",
+		"maint":7,
+		"cons":8,
+		"latitude":4.54874905190077,
+		"longitude":-74.0660725725113,
+		"boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/SanCristobal.json"
+	},
+	{
+		"name":"Santa Fé",
+		"maint":7,
+		"cons":8,
+		"latitude":4.59397273004256,
+		"longitude":-74.0362175795846,
+		"boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/SantaFe.json"
+	},
+	{
+		"name":"Suba",
+		"maint":7,
+		"cons":8,
+		"latitude":4.7632081974875,
+		"longitude":-74.0758452319465,
+		"boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/Suba.json"
+	},
+	{
+		"name":"Sumapaz",
+		"maint":7,
+		"cons":8,
+		"latitude":4.03656785214746,
+		"longitude":-74.2569811680057,
+		"boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/Sumapaz.json"
+	},
+	{
+		"name":"Teusaquillo",
+		"maint":7,
+		"cons":8,
+		"latitude":4.64117358675497,
+		"longitude":-74.0857690199239,
+		"boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/Teusaquillo.json"
+	},
+	{
+		"name":"Tunjuelito",
+		"maint":7,
+		"cons":8,
+		"latitude":4.57484139874761,
+		"longitude":-74.135989451695,
+		"boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/Tunjuelito.json"
+	},
+	{
+		"name":"Usaquén",
+		"maint":7,
+		"cons":8,
+		"latitude":4.74209241283316,
+		"longitude":-74.0278248326895,
+		"boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/Usaquen.json"
+	},
+	{
+		"name":"Usme",
+		"maint":7,
+		"cons":8,
+		"latitude"4.3900250090727,
+		"longitude":-74.142806583082,
+		"boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/Usme.json"
+	}
+];
