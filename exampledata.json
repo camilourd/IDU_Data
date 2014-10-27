@@ -166,5 +166,245 @@
         "description": "Obra Chapinero 5",
         "latitude" : 4.642923,
         "longitude" : -74.072887
+    },
+    {
+        "type" : 2,
+        "locality" : 4,
+        "percent": 45,
+        "description": "Obra Ciudad Bolivar 1",
+        "latitude" : 4.385376,
+        "longitude" : -74.171955
+    },
+    {
+        "type" : 1,
+        "locality" : 4,
+        "percent": 45,
+        "description": "Obra Ciudad Bolivar 2",
+        "latitude" : 4.494054,
+        "longitude" : -74.138996
+    },
+    {
+        "type" : 2,
+        "locality" : 4,
+        "percent": 45,
+        "description": "Obra Ciudad Bolivar 3",
+        "latitude" : 4.529649,
+        "longitude" : -74.153416
+    },
+    {
+        "type" : 2,
+        "locality" : 4,
+        "percent": 45,
+        "description": "Obra Ciudad Bolivar 4",
+        "latitude" : 4.399240,
+        "longitude" : -74.141228
+    },
+    {
+        "type" : 1,
+        "locality" : 4,
+        "percent": 45,
+        "description": "Obra Ciudad Bolivar 5",
+        "latitude" : 4.444423,
+        "longitude" : -74.155819
+    },
+    {
+        "type" : 1,
+        "locality" : 5,
+        "percent": 45,
+        "description": "Engativá 1",
+        "latitude" : 4.701134,
+        "longitude" : -74.113436
+    },
+    {
+        "type" : 1,
+        "locality" : 5,
+        "percent": 45,
+        "description": "Engativá 2",
+        "latitude" : 4.684025,
+        "longitude" : -74.114638
+    },
+    {
+        "type" : 2,
+        "locality" : 5,
+        "percent": 45,
+        "description": "Engativá 3",
+        "latitude" : 4.706352,
+        "longitude" : -74.119359
+    },
+    {
+        "type" : 1,
+        "locality" : 5,
+        "percent": 45,
+        "description": "Engativá 4",
+        "latitude" : 4.690783,
+        "longitude" : -74.103909
+    },
+    {
+        "type" : 1,
+        "locality" : 5,
+        "percent": 45,
+        "description": "Engativá 5",
+        "latitude" : 4.698311,
+        "longitude" : -74.129315
+    },
+    {
+        "type" : 1,
+        "locality" : 6,
+        "percent": 45,
+        "description": "Fontibón 1",
+        "latitude" : 4.654020,
+        "longitude" : -74.112568
+    },
+    {
+        "type" : 1,
+        "locality" : 6,
+        "percent": 45,
+        "description": "Fontibón 2",
+        "latitude" : 4.662574,
+        "longitude" : -74.121666
+    },
+    {
+        "type" : 1,
+        "locality" : 6,
+        "percent": 45,
+        "description": "Fontibón 3",
+        "latitude" : 4.681737,
+        "longitude" : -74.145355
+    },
+    {
+        "type" : 1,
+        "locality" : 6,
+        "percent": 45,
+        "description": "Fontibón 4",
+        "latitude" : 4.697220,
+        "longitude" : -74.155397
+    },
+    {
+        "type" : 2,
+        "locality" : 6,
+        "percent": 45,
+        "description": "Fontibón 5",
+        "latitude" : 4.674380,
+        "longitude" : -74.123554
+    },
+    {
+        "type" : 1,
+        "locality" : 7,
+        "percent": 45,
+        "description": "Kennedy 1",
+        "latitude" : 4.640393,
+        "longitude" : -74.172834
+    },
+    {
+        "type" : 1,
+        "locality" : 7,
+        "percent": 45,
+        "description": "Kennedy 2",
+        "latitude" : 4.645013,
+        "longitude" : -74.141935
+    },
+    {
+        "type" : 1,
+        "locality" : 7,
+        "percent": 45,
+        "description": "Kennedy 3",
+        "latitude" : 4.630384,
+        "longitude" : -74.138244
+    },
+    {
+        "type" : 1,
+        "locality" : 7,
+        "percent": 45,
+        "description": "Kennedy 4",
+        "latitude" : 4.612333,
+        "longitude" : -74.134039
+    },
+    {
+        "type" : 2,
+        "locality" : 7,
+        "percent": 45,
+        "description": "Kennedy 5",
+        "latitude" : 4.639880,
+        "longitude" : -74.130090
+    },
+    {
+        "type" : 1,
+        "locality" : 8,
+        "percent": 45,
+        "description": "La Candelaria 1",
+        "latitude" : 4.602001,
+        "longitude" : -74.061348
+    },
+    {
+        "type" : 1,
+        "locality" : 8,
+        "percent": 45,
+        "description": "La Candelaria 2",
+        "latitude" : 4.645013,
+        "longitude" : -74.141935
+    },
+    {
+        "type" : 2,
+        "locality" : 8,
+        "percent": 45,
+        "description": "La Candelaria 3",
+        "latitude" : 4.599199,
+        "longitude" : -74.065790
+    },
+    {
+        "type" : 2,
+        "locality" : 8,
+        "percent": 45,
+        "description": "La Candelaria 4",
+        "latitude" : 4.597145,
+        "longitude" : -74.076154
+    },
+    {
+        "type" : 2,
+        "locality" : 8,
+        "percent": 45,
+        "description": "La Candelaria 5",
+        "latitude" : 4.594151,
+        "longitude" : -74.075296
+    },
+    {
+        "type" : 2,
+        "locality" : 9,
+        "percent": 45,
+        "description": "Los Mártires 1",
+        "latitude" : 4.610700,
+        "longitude" : -74.079062
+    },
+    {
+        "type" : 1,
+        "locality" : 9,
+        "percent": 45,
+        "description": "Los Mártires 2",
+        "latitude" : 4.619940,
+        "longitude" : -74.077216
+    },
+    {
+        "type" : 1,
+        "locality" : 9,
+        "percent": 45,
+        "description": "Los Mártires 3",
+        "latitude" : 4.618015,
+        "longitude" : -74.078933
+    },
+    {
+        "type" : 2,
+        "locality" : 9,
+        "percent": 45,
+        "description": "Los Mártires 4",
+        "latitude" : 4.604925,
+        "longitude" : -74.081293
+    },
+    {
+        "type" : 2,
+        "locality" : 9,
+        "percent": 45,
+        "description": "Los Mártires 5",
+        "latitude" : 4.604369,
+        "longitude" : -74.095541
     }
 ]
