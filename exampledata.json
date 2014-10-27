@@ -406,5 +406,85 @@
         "description": "Los Mártires 5",
         "latitude" : 4.604369,
         "longitude" : -74.095541
+    },
+    {
+        "type" : 1,
+        "locality" : 10,
+        "percent": 45,
+        "description": "Puente Aranda 1",
+        "latitude" : 4.614849,
+        "longitude" : -74.114558
+    },
+    {
+        "type" : 2,
+        "locality" : 10,
+        "percent": 45,
+        "description": "Puente Aranda 2",
+        "latitude" : 4.597182,
+        "longitude" : -74.131381
+    },
+    {
+        "type" : 1,
+        "locality" : 10,
+        "percent": 45,
+        "description": "Puente Aranda 3",
+        "latitude" : 4.623319,
+        "longitude" : -74.115288
+    },
+    {
+        "type" : 2,
+        "locality" : 10,
+        "percent": 45,
+        "description": "Puente Aranda 4",
+        "latitude" : 4.624351,
+        "longitude" : -74.103465
+    },
+    {
+        "type" : 1,
+        "locality" : 10,
+        "percent": 45,
+        "description": "Puente Aranda 5",
+        "latitude" : 4.616705,
+        "longitude" : -74.124440
+    },
+    {
+        "type" : 1,
+        "locality" : 11,
+        "percent": 45,
+        "description": "Rafael Uribe Uribe 1",
+        "latitude" : 4.583205,
+        "longitude" : -74.097427
+    },
+    {
+        "type" : 1,
+        "locality" : 11,
+        "percent": 45,
+        "description": "Rafael Uribe Uribe 2",
+        "latitude" : 4.576831,
+        "longitude" : -74.110258
+    },
+    {
+        "type" : 2,
+        "locality" : 11,
+        "percent": 45,
+        "description": "Rafael Uribe Uribe 3",
+        "latitude" : 4.555612,
+        "longitude" : -74.116395
+    },
+    {
+        "type" : 2,
+        "locality" : 11,
+        "percent": 45,
+        "description": "Rafael Uribe Uribe 4",
+        "latitude" : 4.582264,
+        "longitude" : -74.093865
+    },
+    {
+        "type" : 1,
+        "locality" : 11,
+        "percent": 45,
+        "description": "Rafael Uribe Uribe 5",
+        "latitude" : 4.572082,
+        "longitude" : -74.104422
     }
 ]
