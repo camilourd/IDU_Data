@@ -7,6 +7,14 @@
         "latitude" : 4.589668,
         "longitude" : -74.104377
     },
+     {
+        "type" : 1,
+        "locality" : 0,
+        "percent": 45,
+        "description": "Obra usme",
+        "latitude" : 4.569668,
+        "longitude" : -74.504377
+    },
     {
         "type" : 2,
         "locality" : 0,
