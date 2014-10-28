@@ -8,10 +8,10 @@
         "longitude" : -74.104377
     },
      {
-        "type" : 1,
+        "type" : 2,
         "locality" : 0,
         "percent": 50,
-        "description": "Obra antonio",
+        "description": "Obra antonio v",
         "latitude" : 4.555300,
         "longitude" :  -74.121589
     },
