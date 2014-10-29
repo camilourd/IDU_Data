@@ -38,5 +38,13 @@
         "latitude":4.48244954764114,
         "longitude":-74.1619573092099,
         "boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/CuidadBolivar.json"
+    },
+    {
+        "name":"Engativá",
+        "id":"Engativa",
+        "cons":8,
+        "latitude":4.70112556225215,
+        "longitude":-74.1131877021726,
+        "boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/Engativa.json"
     }
 ]
