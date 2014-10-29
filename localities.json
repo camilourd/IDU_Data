@@ -1,7 +1,7 @@
 [
     {
         "name":"Antonio Nariño",
-        "id":"Antonio_Nariño",
+        "localityId":"Antonio_Nariño",
         "cons":98,
         "latitude":4.58877067503028,
         "longitude":-74.1028424011415,
@@ -9,7 +9,7 @@
     },
     {
         "name":"Barrios Unidos",
-        "id":"Barrios_Unidos",
+        "localityId":"Barrios_Unidos",
         "cons":8,
         "latitude":4.6695669337193,
         "longitude":-74.0735516053363,
@@ -17,7 +17,7 @@
     },
     {
         "name":"Bosa",
-        "id":"Bosa",
+        "localityId":"Bosa",
         "cons":8,
         "latitude":4.62177744096788,
         "longitude":-74.1943874469536,
@@ -25,7 +25,7 @@
     },
     {
         "name":"Chapinero",
-        "id":"Chapinero",
+        "localityId":"Chapinero",
         "cons":998,
         "latitude":4.64498272017399,
         "longitude":-74.0368830256635,
@@ -33,7 +33,7 @@
     },
     {
         "name":"Ciudad Bolivar",
-        "id":"Ciudad_Bolivar",
+        "localityId":"Ciudad_Bolivar",
         "cons":8,
         "latitude":4.48244954764114,
         "longitude":-74.1619573092099,
@@ -41,7 +41,7 @@
     },
     {
         "name":"Engativá",
-        "id":"Engativa",
+        "localityId":"Engativa",
         "cons":8,
         "latitude":4.70112556225215,
         "longitude":-74.1131877021726,
@@ -49,7 +49,7 @@
     },
     {
         "name":"Fontibón",
-        "id":"Fontibon",
+        "localityId":"Fontibon",
         "cons":8,
         "latitude":4.67818292491529,
         "longitude":-74.140151298465,
@@ -57,7 +57,7 @@
     },
     {
         "name":"Kennedy",
-        "id":"Kennedy",
+        "localityId":"Kennedy",
         "cons":8,
         "latitude":4.63034735100552,
         "longitude":-74.1526676235548,
@@ -65,7 +65,7 @@
     },
     {
         "name":"La Candelaria",
-        "id":"La_Candelaria"",
+        "localityId":"La_Candelaria"",
         "cons":8,
         "latitude":4.59660507539513,
         "longitude":-74.0720707956031,
@@ -73,7 +73,7 @@
     },
     {
         "name":"Los Mártires",
-        "id":"Los_Martires",
+        "localityId":"Los_Martires",
         "cons":8,
         "latitude":4.6071559352803,
         "longitude":-74.0879478683923,
@@ -81,7 +81,7 @@
     },
     {
         "name":"Puente Aranda",
-        "id":"Puente_Aranda",
+        "localityId":"Puente_Aranda",
         "cons":8,
         "latitude":4.61624547044465,
         "longitude":-74.1115802339541,
@@ -89,7 +89,7 @@
     },
     {
         "name":"Rafael Uribe Uribe",
-        "id":"Rafael_Uribe_Uribe",
+        "localityId":"Rafael_Uribe_Uribe",
         "cons":8,
         "latitude":4.56647690107243,
         "longitude":-74.1133631832176,
@@ -97,7 +97,7 @@
     },
     {
         "name":"San Cristóbal",
-        "id":"San_Cristobal",
+        "localityId":"San_Cristobal",
         "cons":8,
         "latitude":4.54874905190077,
         "longitude":-74.0660725725113,
@@ -105,7 +105,7 @@
     },
     {
         "name":"Santa Fé",
-        "id":"SantaFe",
+        "localityId":"SantaFe",
         "cons":8,
         "latitude":4.59397273004256,
         "longitude":-74.0362175795846,
@@ -113,7 +113,7 @@
     },
     {
         "name":"Suba",
-        "id":"Suba",
+        "localityId":"Suba",
         "cons":8,
         "latitude":4.7632081974875,
         "longitude":-74.0758452319465,
@@ -121,7 +121,7 @@
     },
     {
         "name":"Sumapaz",
-        "id":"Sumapaz",
+        "localityId":"Sumapaz",
         "cons":8,
         "latitude":4.03656785214746,
         "longitude":-74.2569811680057,
@@ -129,7 +129,7 @@
     },
     {
         "name":"Teusaquillo",
-        "id":"Teusaquillo",
+        "localityId":"Teusaquillo",
         "cons":8,
         "latitude":4.64117358675497,
         "longitude":-74.0857690199239,
@@ -137,7 +137,7 @@
     },
     {
         "name":"Tunjuelito",
-        "id":"Tunjuelito",
+        "localityId":"Tunjuelito",
         "cons":8,
         "latitude":4.57484139874761,
         "longitude":-74.135989451695,
@@ -145,7 +145,7 @@
     },
     {
         "name":"Usaquén",
-        "id":"Usaquen",
+        "localityId":"Usaquen",
         "cons":8,
         "latitude":4.74209241283316,
         "longitude":-74.0278248326895,
@@ -153,7 +153,7 @@
     },
     {
         "name":"Usme",
-        "id":"Usme",
+        "localityId":"Usme",
         "cons":8,
         "latitude": 4.3900250090727,
         "longitude":-74.142806583082,
