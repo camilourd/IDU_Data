@@ -30,5 +30,13 @@
         "latitude":4.64498272017399,
         "longitude":-74.0368830256635,
         "boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/Chapinero.json"
+    },
+    {
+        "name":"Ciudad Bolivar",
+        "id":"Ciudad_Bolivar",
+        "cons":8,
+        "latitude":4.48244954764114,
+        "longitude":-74.1619573092099,
+        "boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/CuidadBolivar.json"
     }
 ]
