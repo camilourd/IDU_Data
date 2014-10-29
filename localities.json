@@ -14,5 +14,45 @@
         "latitude":4.6695669337193,
         "longitude":-74.0735516053363,
         "boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/BarriosUnidos.json"
+    },
+	{
+        "name":"Bosa",
+        "id":"Bosa",
+        "cons":8,
+        "latitude":4.62177744096788,
+        "longitude":-74.1943874469536,
+        "boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/Bosa.json"
+    },
+    {
+        "name":"Chapinero",
+        "id":"Chapinero",
+        "cons":998,
+        "latitude":4.64498272017399,
+        "longitude":-74.0368830256635,
+        "boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/Chapinero.json"
+    },
+    {
+        "name":"Ciudad Bolivar",
+        "id":"Ciudad_Bolivar",
+        "cons":8,
+        "latitude":4.48244954764114,
+        "longitude":-74.1619573092099,
+        "boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/CuidadBolivar.json"
+    },
+    {
+        "name":"Engativá",
+        "id":"Engativa",
+        "cons":8,
+        "latitude":4.70112556225215,
+        "longitude":-74.1131877021726,
+        "boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/Engativa.json"
+    },
+    {
+        "name":"Fontibón",
+        "id":"Fontibon",
+        "cons":8,
+        "latitude":4.67818292491529,
+        "longitude":-74.140151298465,
+        "boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/Fontibon.json"
     }
 ]
