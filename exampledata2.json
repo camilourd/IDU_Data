@@ -95,7 +95,7 @@
 		"geometry": {"coordinates": [-74.100128, 4.590668], "type": "Point"},
 		"id": null,
 		"properties": {
-			"type": 2,
+			"type": 1,
 			"actividad_ultima_semana": "Actividad obra 2 Antonio Nariño.", 
 			"avance_porcentual_obra": 45.0,
 			"contratista": "CONSORCIO OBRA 3 ANTONIO NARIÑO",
@@ -165,11 +165,11 @@
 		"id": null,
 		"properties": {
 			"type": 2,
-			"actividad_ultima_semana": "Actividad obra 1 Barrios unidos.", 
+			"actividad_ultima_semana": "Actividad obra 3 Barrios unidos.", 
 			"avance_porcentual_obra": 45.0,
-			"contratista": "CONSORCIO OBRA 1",
-			"coordinador": "Coordinador Obra 1",
-			"descripcion": "Obra 1",
+			"contratista": "CONSORCIO OBRA 3",
+			"coordinador": "Coordinador Obra 3",
+			"descripcion": "Obra 3",
 			"fecha_actualizacion": "2014-08-16",
 			"fecha_terminacion": "2015-02-21",
 			"fotos": [{"id": 73, "name": "apiques", "url": false}],
@@ -187,12 +187,12 @@
 		"geometry": {"coordinates": [-74.063694, 4.642557], "type": "Point"},
 		"id": null,
 		"properties": {
-			"type": 2,
-			"actividad_ultima_semana": "Actividad obra 2 Barrios unidos.", 
+			"type": 1,
+			"actividad_ultima_semana": "Actividad obra 4 Barrios unidos.", 
 			"avance_porcentual_obra": 45.0,
-			"contratista": "CONSORCIO OBRA 2",
-			"coordinador": "Coordinador Obra 2",
-			"descripcion": "Obra 2",
+			"contratista": "CONSORCIO OBRA 4",
+			"coordinador": "Coordinador Obra 4",
+			"descripcion": "Obra 4",
 			"fecha_actualizacion": "2014-08-16",
 			"fecha_terminacion": "2015-02-21",
 			"fotos": [{"id": 73, "name": "apiques", "url": false}],
@@ -206,4 +206,27 @@
 		},
 		"type": "Feature"
     },
+	{
+		"geometry": {"coordinates": [-74.080044, 4.675956], "type": "Point"},
+		"id": null,
+		"properties": {
+			"type": 1,
+			"actividad_ultima_semana": "Actividad obra 5 Barrios unidos.", 
+			"avance_porcentual_obra": 42.0,
+			"contratista": "CONSORCIO OBRA 5",
+			"coordinador": "Coordinador Obra 5",
+			"descripcion": "Obra 5",
+			"fecha_actualizacion": "2014-08-16",
+			"fecha_terminacion": "2015-02-21",
+			"fotos": [{"id": 73, "name": "apiques", "url": false}],
+			"frente_id": 6,
+			"interventoria": "CONSORCIO INTERVENTORES IDU",
+			"inversion_interventoria": 612637941.0, 
+			"inversion_obras_civiles": 9105914614.0,
+			"localidad": "Chapinero",
+			"observaciones": "El contrato actualmente se encuentra avanzando",
+			"plazo_ejecucion_dias": 250
+		},
+		"type": "Feature"
+    }
 ], "type": "FeatureCollection"}
