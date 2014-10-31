@@ -1,4 +1,28 @@
 {"features": [
+	 {
+		"geometry": {"coordinates": [-74.198382,4.616229], "type": "Point"},
+		"id": null,
+		"properties": {
+			"type": 4,
+			"actividad_ultima_semana": "El contrato se encuentra suspendido.", 
+			"avance_porcentual_obra": 88.0,
+			"contratista": "CONSORCIO ESTACION BOSA 2013",
+			"coordinador": "Luis Eduardo Garzon Charum",
+			"descripcion": "Contrucción en Bosa",
+			"fecha_actualizacion": "2014-08-16",
+			"fecha_terminacion": "2015-02-21",
+			"fotos": [{"id": 73, "name": "apiques", "url": false}],
+			"frente_id": 6,
+			"interventoria": "CONSORCIO INTERVENTORES IDU",
+			"inversion_interventoria": 612637941.0, 
+			"inversion_obras_civiles": 9105914614.0,
+			"localidad": "Bosa",
+			"observaciones": "El contrato actualmente se encuentra suspendido, toda vez que el Plan de Manejo de Tr\u00e1fico aprobado por parte de la Secretar\u00eda de Movilidad est\u00e1 condicionado al permiso por parte del Municipio de Soacha, el cual fue negado.  ",
+			"plazo_ejecucion_dias": 330
+		},
+		"type": "Feature"
+    },
+
     {
 		"geometry": {"coordinates": [-74.1817263190264, 4.596869114762649], "type": "Point"},
 		"id": null,
