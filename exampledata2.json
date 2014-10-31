@@ -3,7 +3,7 @@
 		"geometry": {"coordinates": [-74.198382,4.616229], "type": "Point"},
 		"id": null,
 		"properties": {
-			"type": 4,
+			"type": 2,
 			"actividad_ultima_semana": "El contrato se encuentra suspendido.", 
 			"avance_porcentual_obra": 88.0,
 			"contratista": "CONSORCIO ESTACION BOSA 2013",
