@@ -23,7 +23,7 @@
 		"type": "Feature"
     },
      {
-		"geometry": {"coordinates": [-74.498382,4.316229], "type": "Point"},
+		"geometry": {"coordinates": [-74.192546,4.647626], "type": "Point"},
 		"id": null,
 		"properties": {
 			"type": 1,
