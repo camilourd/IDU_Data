@@ -1,0 +1,66 @@
+{
+    "configuracion": {
+        "filtro_inicial": {
+            "localidad": "kennedy",
+            "mensaje": "Conozca las estaciones del metro de kennedy",
+            "tag": "metro"
+        },
+        "tags": {
+            "construcción": {
+                "color_1": "#FF00BB",
+                "color_2": "#FF00BB",
+                "color_3": "#FF00BB",
+                "icono": "http://pqr.idu.gov.co/img/icono1.png"
+            },
+            "cupo de endeudamiento": {
+                "color_1": "#FF00BB",
+                "color_2": "#FF00BB",
+                "color_3": "#FF00BB",
+                "icono": "http://pqr.idu.gov.co/img/icono1.png"
+            },
+            "mantenimiento": {
+                "color_1": "#FF00BB",
+                "color_2": "#FF00BB",
+                "color_3": "#FF00BB",
+                "icono": "http://pqr.idu.gov.co/icons/colocar_icono.png"
+            },
+            "metro": {
+                "color_1": "#FF00BB",
+                "color_2": "#FF00BB",
+                "color_3": "#FF00BB",
+                "icono": "http://pqr.idu.gov.co/img/icono1.png"
+            },
+            "valorización": {
+                "color_1": "#FF00BB",
+                "color_2": "#FF00BB",
+                "color_3": "#FF00BB",
+                "icono": "http://pqr.idu.gov.co/img/icono1.png"
+            }
+        }
+    },
+    "resumen": {
+        "localidades": {
+            "antonio nariño": 10,
+            "barrios unidos": 20,
+            "bosa": 30,
+            "candelaria": 40,
+            "chapinero": 50,
+            "ciudad bolivar": 60,
+            "engativa": 70,
+            "fontibon": 80,
+            "kennedy": 90,
+            "los martires": 100,
+            "puente aranda": 110,
+            "rafael uribe uribe": 120,
+            "san cristobal": 130,
+            "santa fe": 140,
+            "suba": 150,
+            "sumapaz": 160,
+            "teusaquillo": 170,
+            "tunjuelito": 180,
+            "usaquen": 190,
+            "usme": 200,
+        }
+    },
+    "ultima_actualizacion": "2014-11-10 17:20:00"
+}
