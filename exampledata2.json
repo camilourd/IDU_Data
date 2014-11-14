@@ -5,7 +5,7 @@
 		"properties": {
 			"type": 2,
 			"actividad_ultima_semana": "El contrato se encuentra suspendido.", 
-			"avance_porcentual_obra": 88.0,
+			"avance_porcentual_obra": 0,
 			"contratista": "CONSORCIO ESTACION BOSA 2013",
 			"coordinador": "Luis Eduardo Garzon Charum",
 			"descripcion": "Contrucción en Bosa p",
@@ -28,7 +28,7 @@
 		"properties": {
 			"type": 1,
 			"actividad_ultima_semana": "El contrato se encuentra suspendido.", 
-			"avance_porcentual_obra": 88.0,
+			"avance_porcentual_obra": 0,
 			"contratista": "CONSORCIO ESTACION BOSA 2013",
 			"coordinador": "Luis Eduardo Garzon Charum",
 			"descripcion": "En cada uno de los proyectos en ejecución, los ciudadanos pueden informarse de los avances de obra que se realizan en la ciudad, así como consultar los documentos que soportan cada uno de los contratos vigentes para la realización de las obras, minutas, fotos y videos.",
@@ -52,7 +52,7 @@
 		"properties": {
 			"type": 3,
 			"actividad_ultima_semana": "El contrato se encuentra suspendido.", 
-			"avance_porcentual_obra": 45.0,
+			"avance_porcentual_obra": 0,
 			"contratista": "CONSORCIO ESTACION BOSA 2013",
 			"coordinador": "Luis Eduardo Garzon Charum",
 			"descripcion": "CONSTRUCCION  DE LA ESTACIÓN BOSA PARA EL SISTEMA TRANSMILENIO Y LA ADECUACIÓN DE LOS PUENTES PEATONALES DE ACCESO, UBICADOS EN LA AUTOPISTA SUR ENTRE CALLES 63S Y 65CS.",
@@ -75,7 +75,7 @@
 		"properties": {
 			"type": 4,
 			"actividad_ultima_semana": "El contrato se encuentra suspendido.", 
-			"avance_porcentual_obra": 45.0,
+			"avance_porcentual_obra": 0,
 			"contratista": "CONSORCIO ESTACION BOSA 2014",
 			"coordinador": "Luis Eduardo Garzon Charum",
 			"descripcion": "CONSTRUCCION  BOSA 2.",
