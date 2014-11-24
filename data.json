@@ -1736,32 +1736,6 @@
               ]
             ],
             "type": "LineString"
-          },
-          {
-            "coordinates": [
-              [
-               -74.172724,
-                4.63749
-              ],
-              [
-                -74.172295,
-                4.636818
-              ]
-            ],
-            "type": "LineString"
-          },
-          {
-            "coordinates": [
-              [
-                -74.173517,
-                4.637320
-              ],
-              [
-               -74.172177,
-                4.637822
-              ]
-            ],
-            "type": "LineString"
           }
         ],
         "type": "GeometryCollection"
