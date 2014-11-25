@@ -2033,6 +2033,31 @@
             ],
             "type": "LineString"
           }
+          ,{
+            "coordinates": [
+              [
+                -74.072939,
+                4.608542
+              ],
+              [
+                -74.071770,
+                4.608606
+              ]
+            ],
+            "type": "LineString"
+          },{
+            "coordinates": [
+              [
+               -74.073401,
+                4.607836
+              ],
+              [
+                -74.073828,
+                4.608210
+              ]
+            ],
+            "type": "LineString"
+          }
         ],
         "type": "GeometryCollection"
       },
