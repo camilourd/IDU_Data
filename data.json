@@ -2019,6 +2019,19 @@
               ]
             ],
             "type": "LineString"
+          },
+          {
+            "coordinates": [
+              [
+                -74.073798,
+                4.606927
+              ],
+              [
+                -74.071706,
+                4.605579
+              ]
+            ],
+            "type": "LineString"
           }
         ],
         "type": "GeometryCollection"
