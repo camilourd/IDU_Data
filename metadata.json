@@ -1,66 +1,203 @@
 {
     "configuracion": {
         "filtro_inicial": {
-            "localidad": "kennedy",
-            "mensaje": "Conozca las estaciones del metro de kennedy",
+            "localidad": "Kennedy",
+            "mensaje": "Conozca las estaciones del metro de Kennedy",
             "tag": "metro"
         },
-        "tags": {
-            "construcción": {
-                "color_1": "#FF00BB",
-                "color_2": "#FF00BB",
-                "color_3": "#FF00BB",
-                "icono": "http://pqr.idu.gov.co/img/icono1.png"
+        "tags": [
+            {
+                "tag": "construcción",
+                "color": "#218284",
+                "icono": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/pines/ico_01.png",
+                "iconos_de_pines" : {
+                    "resolucion_muy_baja" : "https://raw.githubusercontent.com/camilourd/IDU_Data/master/pines/ico_01_notselect.png",
+                    "resolucion_baja" : "https://raw.githubusercontent.com/camilourd/IDU_Data/master/pines/ico_01_notselect_mediumin.png",
+                    "resolucion_mediana" : "https://raw.githubusercontent.com/camilourd/IDU_Data/master/pines/ico_01_notselect_medium.png",
+                    "resolucion_grande" : "https://raw.githubusercontent.com/camilourd/IDU_Data/master/pines/ico_01_notselect_bigmin.png",
+                    "resolucion_muy_grande" : "https://raw.githubusercontent.com/camilourd/IDU_Data/master/pines/ico_01_notselect_big.png",
+                    "resolucion_extra_grande" : "https://raw.githubusercontent.com/camilourd/IDU_Data/master/pines/ico_01_notselect_bigger.png",
+                },
+                "iconos_de_pines_selecionados" : {
+                    "resolucion_muy_baja" : "https://raw.githubusercontent.com/camilourd/IDU_Data/master/pines/ico_01_select.png",
+                    "resolucion_baja" : "https://raw.githubusercontent.com/camilourd/IDU_Data/master/pines/ico_01_select_mediumin.png",
+                    "resolucion_mediana" : "https://raw.githubusercontent.com/camilourd/IDU_Data/master/pines/ico_01_select_medium.png",
+                    "resolucion_grande" : "https://raw.githubusercontent.com/camilourd/IDU_Data/master/pines/ico_01_select_bigmin.png",
+                    "resolucion_muy_grande" : "https://raw.githubusercontent.com/camilourd/IDU_Data/master/pines/ico_01_select_big.png",
+                    "resolucion_extra_grande" : "https://raw.githubusercontent.com/camilourd/IDU_Data/master/pines/ico_01_select_bigger.png",
+                }
             },
-            "cupo de endeudamiento": {
-                "color_1": "#FF00BB",
-                "color_2": "#FF00BB",
-                "color_3": "#FF00BB",
-                "icono": "http://pqr.idu.gov.co/img/icono1.png"
+            {
+                "tag": "cupo de endeudamiento",
+                "color": "#A59F29",
+                "icono": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/pines/ico_03.png",
+                "iconos_de_pines" : {
+                    "resolucion_muy_baja" : "https://raw.githubusercontent.com/camilourd/IDU_Data/master/pines/ico_03_notselect.png",
+                    "resolucion_baja" : "https://raw.githubusercontent.com/camilourd/IDU_Data/master/pines/ico_03_notselect_mediumin.png",
+                    "resolucion_mediana" : "https://raw.githubusercontent.com/camilourd/IDU_Data/master/pines/ico_03_notselect_medium.png",
+                    "resolucion_grande" : "https://raw.githubusercontent.com/camilourd/IDU_Data/master/pines/ico_03_notselect_bigmin.png",
+                    "resolucion_muy_grande" : "https://raw.githubusercontent.com/camilourd/IDU_Data/master/pines/ico_03_notselect_big.png",
+                    "resolucion_extra_grande" : "https://raw.githubusercontent.com/camilourd/IDU_Data/master/pines/ico_03_notselect_bigger.png",
+                },
+                "iconos_de_pines_selecionados" : {
+                    "resolucion_muy_baja" : "https://raw.githubusercontent.com/camilourd/IDU_Data/master/pines/ico_03_select.png",
+                    "resolucion_baja" : "https://raw.githubusercontent.com/camilourd/IDU_Data/master/pines/ico_03_select_mediumin.png",
+                    "resolucion_mediana" : "https://raw.githubusercontent.com/camilourd/IDU_Data/master/pines/ico_03_select_medium.png",
+                    "resolucion_grande" : "https://raw.githubusercontent.com/camilourd/IDU_Data/master/pines/ico_03_select_bigmin.png",
+                    "resolucion_muy_grande" : "https://raw.githubusercontent.com/camilourd/IDU_Data/master/pines/ico_03_select_big.png",
+                    "resolucion_extra_grande" : "https://raw.githubusercontent.com/camilourd/IDU_Data/master/pines/ico_03_select_bigger.png",
+                }
             },
-            "mantenimiento": {
-                "color_1": "#FF00BB",
-                "color_2": "#FF00BB",
-                "color_3": "#FF00BB",
-                "icono": "http://pqr.idu.gov.co/icons/colocar_icono.png"
+            {
+                "tag": "mantenimiento",
+                "color": "#F38630",
+                "icono": "http://pqr.idu.gov.co/img/icono_construccion.png",
+                "icono": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/pines/ico_02.png",
+                "iconos_de_pines" : {
+                    "resolucion_muy_baja" : "https://raw.githubusercontent.com/camilourd/IDU_Data/master/pines/ico_02_notselect.png",
+                    "resolucion_baja" : "https://raw.githubusercontent.com/camilourd/IDU_Data/master/pines/ico_02_notselect_mediumin.png",
+                    "resolucion_mediana" : "https://raw.githubusercontent.com/camilourd/IDU_Data/master/pines/ico_02_notselect_medium.png",
+                    "resolucion_grande" : "https://raw.githubusercontent.com/camilourd/IDU_Data/master/pines/ico_02_notselect_bigmin.png",
+                    "resolucion_muy_grande" : "https://raw.githubusercontent.com/camilourd/IDU_Data/master/pines/ico_02_notselect_big.png",
+                    "resolucion_extra_grande" : "https://raw.githubusercontent.com/camilourd/IDU_Data/master/pines/ico_02_notselect_bigger.png",
+                },
+                "iconos_de_pines_selecionados" : {
+                    "resolucion_muy_baja" : "https://raw.githubusercontent.com/camilourd/IDU_Data/master/pines/ico_02_select.png",
+                    "resolucion_baja" : "https://raw.githubusercontent.com/camilourd/IDU_Data/master/pines/ico_02_select_mediumin.png",
+                    "resolucion_mediana" : "https://raw.githubusercontent.com/camilourd/IDU_Data/master/pines/ico_02_select_medium.png",
+                    "resolucion_grande" : "https://raw.githubusercontent.com/camilourd/IDU_Data/master/pines/ico_02_select_bigmin.png",
+                    "resolucion_muy_grande" : "https://raw.githubusercontent.com/camilourd/IDU_Data/master/pines/ico_02_select_big.png",
+                    "resolucion_extra_grande" : "https://raw.githubusercontent.com/camilourd/IDU_Data/master/pines/ico_02_select_bigger.png",
+                }
             },
-            "metro": {
-                "color_1": "#FF00BB",
-                "color_2": "#FF00BB",
-                "color_3": "#FF00BB",
-                "icono": "http://pqr.idu.gov.co/img/icono1.png"
+            {
+                "tag": "metro",
+                "color": "#E80597",
+                "icono": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/pines/ico_05.png",
+                "iconos_de_pines" : {
+                    "resolucion_muy_baja" : "https://raw.githubusercontent.com/camilourd/IDU_Data/master/pines/ico_05_notselect.png",
+                    "resolucion_baja" : "https://raw.githubusercontent.com/camilourd/IDU_Data/master/pines/ico_05_notselect_mediumin.png",
+                    "resolucion_mediana" : "https://raw.githubusercontent.com/camilourd/IDU_Data/master/pines/ico_05_notselect_medium.png",
+                    "resolucion_grande" : "https://raw.githubusercontent.com/camilourd/IDU_Data/master/pines/ico_05_notselect_bigmin.png",
+                    "resolucion_muy_grande" : "https://raw.githubusercontent.com/camilourd/IDU_Data/master/pines/ico_05_notselect_big.png",
+                    "resolucion_extra_grande" : "https://raw.githubusercontent.com/camilourd/IDU_Data/master/pines/ico_05_notselect_bigger.png",
+                },
+                "iconos_de_pines_selecionados" : {
+                    "resolucion_muy_baja" : "https://raw.githubusercontent.com/camilourd/IDU_Data/master/pines/ico_05_select.png",
+                    "resolucion_baja" : "https://raw.githubusercontent.com/camilourd/IDU_Data/master/pines/ico_05_select_mediumin.png",
+                    "resolucion_mediana" : "https://raw.githubusercontent.com/camilourd/IDU_Data/master/pines/ico_05_select_medium.png",
+                    "resolucion_grande" : "https://raw.githubusercontent.com/camilourd/IDU_Data/master/pines/ico_05_select_bigmin.png",
+                    "resolucion_muy_grande" : "https://raw.githubusercontent.com/camilourd/IDU_Data/master/pines/ico_05_select_big.png",
+                    "resolucion_extra_grande" : "https://raw.githubusercontent.com/camilourd/IDU_Data/master/pines/ico_05_select_bigger.png",
+                }
             },
-            "valorización": {
-                "color_1": "#FF00BB",
-                "color_2": "#FF00BB",
-                "color_3": "#FF00BB",
-                "icono": "http://pqr.idu.gov.co/img/icono1.png"
+            {
+                "tag": "valorización",
+                "color": "#B22808",
+                "icono": "http://pqr.idu.gov.co/img/icono_construccion.png",
+                "icono": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/pines/ico_04.png",
+                "iconos_de_pines" : {
+                    "resolucion_muy_baja" : "https://raw.githubusercontent.com/camilourd/IDU_Data/master/pines/ico_04_notselect.png",
+                    "resolucion_baja" : "https://raw.githubusercontent.com/camilourd/IDU_Data/master/pines/ico_04_notselect_mediumin.png",
+                    "resolucion_mediana" : "https://raw.githubusercontent.com/camilourd/IDU_Data/master/pines/ico_04_notselect_medium.png",
+                    "resolucion_grande" : "https://raw.githubusercontent.com/camilourd/IDU_Data/master/pines/ico_04_notselect_bigmin.png",
+                    "resolucion_muy_grande" : "https://raw.githubusercontent.com/camilourd/IDU_Data/master/pines/ico_04_notselect_big.png",
+                    "resolucion_extra_grande" : "https://raw.githubusercontent.com/camilourd/IDU_Data/master/pines/ico_04_notselect_bigger.png",
+                },
+                "iconos_de_pines_selecionados" : {
+                    "resolucion_muy_baja" : "https://raw.githubusercontent.com/camilourd/IDU_Data/master/pines/ico_04_select.png",
+                    "resolucion_baja" : "https://raw.githubusercontent.com/camilourd/IDU_Data/master/pines/ico_04_select_mediumin.png",
+                    "resolucion_mediana" : "https://raw.githubusercontent.com/camilourd/IDU_Data/master/pines/ico_04_select_medium.png",
+                    "resolucion_grande" : "https://raw.githubusercontent.com/camilourd/IDU_Data/master/pines/ico_04_select_bigmin.png",
+                    "resolucion_muy_grande" : "https://raw.githubusercontent.com/camilourd/IDU_Data/master/pines/ico_04_select_big.png",
+                    "resolucion_extra_grande" : "https://raw.githubusercontent.com/camilourd/IDU_Data/master/pines/ico_04_select_bigger.png",
+                }
             }
-        }
+        ]
     },
     "resumen": {
-        "localidades": {
-            "antonio nariño": 10,
-            "barrios unidos": 20,
-            "bosa": 30,
-            "candelaria": 40,
-            "chapinero": 50,
-            "ciudad bolivar": 60,
-            "engativa": 70,
-            "fontibon": 80,
-            "kennedy": 90,
-            "los martires": 100,
-            "puente aranda": 110,
-            "rafael uribe uribe": 120,
-            "san cristobal": 130,
-            "santa fe": 140,
-            "suba": 150,
-            "sumapaz": 160,
-            "teusaquillo": 170,
-            "tunjuelito": 180,
-            "usaquen": 190,
-            "usme": 200,
-        }
+        "localidades": [
+            {
+                "localidad": "Antonio_Nariño",
+                "numero_de_obras": 0
+            },
+			{
+                "localidad": "Barrios_Unidos",
+                "numero_de_obras": 0
+            },
+			{
+                "localidad": "Bosa",
+                "numero_de_obras": 6
+            },
+			{
+                "localidad": "Chapinero",
+                "numero_de_obras": 5
+            },
+			{
+                "localidad": "Ciudad Bolivar",
+                "numero_de_obras": 3
+            },
+			{
+                "localidad": "Engativa",
+                "numero_de_obras": 4
+            },
+			{
+                "localidad": "Fontibon",
+                "numero_de_obras": 3
+            },
+			{
+                "localidad": "Kennedy",
+                "numero_de_obras": 6
+            },
+			{
+                "localidad": "La_Candelaria",
+                "numero_de_obras": 2
+            },
+			{
+                "localidad": "Los_Martires",
+                "numero_de_obras": 2
+            },
+			{
+                "localidad": "Puente_Aranda",
+                "numero_de_obras": 3
+            },
+			{
+                "localidad": "Rafael_Uribe_Uribe",
+                "numero_de_obras": 7
+            },
+			{
+                "localidad": "San_Cristobal",
+                "numero_de_obras": 4
+            },
+			{
+                "localidad": "SantaFe",
+                "numero_de_obras": 7
+            },
+			{
+                "localidad": "Suba",
+                "numero_de_obras": 10
+            },
+			{
+                "localidad": "Sumapaz",
+                "numero_de_obras": 0
+            },
+			{
+                "localidad": "Teusaquillo",
+                "numero_de_obras": 2
+            },
+			{
+                "localidad": "Tunjuelito",
+                "numero_de_obras": 1
+            },
+			{
+                "localidad": "Usaquen",
+                "numero_de_obras": 6
+            },
+			{
+                "localidad": "Usme",
+                "numero_de_obras": 7
+            }
+        ]
     },
     "ultima_actualizacion": "2014-11-10 17:20:00"
 }
