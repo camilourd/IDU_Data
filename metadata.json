@@ -116,7 +116,7 @@
     "resumen": {
         "localidades": [
             {
-                "localidad": "Antonio_Nariño",
+                "localidad": "Antonio Nariño",
                 "numero_de_obras": 0,
 				"geometries": [
 					{
@@ -130,7 +130,7 @@
 				"boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/AntonioNarino.json"
             },
 			{
-                "localidad": "Barrios_Unidos",
+                "localidad": "Barrios Unidos",
                 "numero_de_obras": 0,
 				"geometries": [
 					{
@@ -186,7 +186,7 @@
 				"boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/CuidadBolivar.json"
             },
 			{
-                "localidad": "Engativa",
+                "localidad": "Engativá",
                 "numero_de_obras": 4,
 				"geometries": [
 					{
@@ -200,7 +200,7 @@
 				"boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/Engativa.json"
             },
 			{
-                "localidad": "Fontibon",
+                "localidad": "Fontibón",
                 "numero_de_obras": 3,
 				"geometries": [
 					{
@@ -228,7 +228,7 @@
 				"boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/Kennedy.json"
             },
 			{
-                "localidad": "La_Candelaria",
+                "localidad": "La Candelaria",
                 "numero_de_obras": 2,
 				"geometries": [
 					{
@@ -242,7 +242,7 @@
 				"boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/Candelaria.json"
             },
 			{
-                "localidad": "Los_Martires",
+                "localidad": "Los Mártires",
                 "numero_de_obras": 2,
 				"geometries": [
 					{
@@ -256,7 +256,7 @@
 				"boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/Martires.json"
             },
 			{
-                "localidad": "Puente_Aranda",
+                "localidad": "Puente Aranda",
                 "numero_de_obras": 3,
 				"geometries": [
 					{
@@ -270,7 +270,7 @@
 				"boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/PuenteAranda.json"
             },
 			{
-                "localidad": "Rafael_Uribe_Uribe",
+                "localidad": "Rafael Uribe Uribe",
                 "numero_de_obras": 7,
 				"geometries": [
 					{
@@ -284,7 +284,7 @@
 				"boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/RafaelUribeUribe.json"
             },
 			{
-                "localidad": "San_Cristobal",
+                "localidad": "San Cristóbal",
                 "numero_de_obras": 4,
 				"geometries": [
 					{
@@ -298,7 +298,7 @@
 				"boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/SanCristobal.json"
             },
 			{
-                "localidad": "SantaFe",
+                "localidad": "Santa Fé",
                 "numero_de_obras": 7,
 				"geometries": [
 					{
@@ -368,7 +368,7 @@
 				"boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/Tunjuelito.json"
             },
 			{
-                "localidad": "Usaquen",
+                "localidad": "Usaquén",
                 "numero_de_obras": 6,
 				"geometries": [
 					{

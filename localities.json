@@ -1,7 +1,7 @@
 [
     {
         "name":"Antonio Nariño",
-        "id":"Antonio_Nariño",
+        "id":"Antonio Nariño",
         "cons":0,
         "latitude":4.58877067503028,
         "longitude":-74.1028424011415,
@@ -9,7 +9,7 @@
     },
     {
         "name":"Barrios Unidos",
-        "id":"Barrios_Unidos",
+        "id":"Barrios Unidos",
         "cons":8,
         "latitude":4.6695669337193,
         "longitude":-74.0735516053363,
@@ -33,7 +33,7 @@
     },
     {
         "name":"Ciudad Bolivar",
-        "id":"Ciudad_Bolivar",
+        "id":"Ciudad Bolivar",
         "cons":8,
         "latitude":4.48244954764114,
         "longitude":-74.1619573092099,
@@ -41,7 +41,7 @@
     },
     {
         "name":"Engativá",
-        "id":"Engativa",
+        "id":"Engativá",
         "cons":8,
         "latitude":4.70112556225215,
         "longitude":-74.1131877021726,
@@ -49,7 +49,7 @@
     },
     {
         "name":"Fontibón",
-        "id":"Fontibon",
+        "id":"Fontibón",
         "cons":8,
         "latitude":4.67818292491529,
         "longitude":-74.140151298465,
@@ -65,7 +65,7 @@
     },
     {
         "name":"La Candelaria",
-        "id":"La_Candelaria",
+        "id":"La Candelaria",
         "cons":8,
         "latitude":4.59660507539513,
         "longitude":-74.0720707956031,
@@ -73,7 +73,7 @@
     },
     {
         "name":"Los Mártires",
-        "id":"Los_Martires",
+        "id":"Los Mártires",
         "cons":8,
         "latitude":4.6071559352803,
         "longitude":-74.0879478683923,
@@ -81,7 +81,7 @@
     },
     {
         "name":"Puente Aranda",
-        "id":"Puente_Aranda",
+        "id":"Puente Aranda",
         "cons":8,
         "latitude":4.61624547044465,
         "longitude":-74.1115802339541,
@@ -89,7 +89,7 @@
     },
     {
         "name":"Rafael Uribe Uribe",
-        "id":"Rafael_Uribe_Uribe",
+        "id":"Rafael Uribe Uribe",
         "cons":8,
         "latitude":4.56647690107243,
         "longitude":-74.1133631832176,
@@ -97,7 +97,7 @@
     },
     {
         "name":"San Cristóbal",
-        "id":"San_Cristobal",
+        "id":"San Cristóbal",
         "cons":8,
         "latitude":4.54874905190077,
         "longitude":-74.0660725725113,
@@ -105,7 +105,7 @@
     },
     {
         "name":"Santa Fé",
-        "id":"SantaFe",
+        "id":"Santa Fé",
         "cons":8,
         "latitude":4.59397273004256,
         "longitude":-74.0362175795846,
@@ -145,7 +145,7 @@
     },
     {
         "name":"Usaquén",
-        "id":"Usaquen",
+        "id":"Usaquén",
         "cons":8,
         "latitude":4.74209241283316,
         "longitude":-74.0278248326895,
