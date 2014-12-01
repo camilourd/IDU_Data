@@ -51,7 +51,6 @@
             {
                 "tag": "mantenimiento",
                 "color": "#F38630",
-                "icono": "http://pqr.idu.gov.co/img/icono_construccion.png",
                 "icono": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/pines/ico_02.png",
                 "iconos_de_pines" : {
                     "resolucion_muy_baja" : "https://raw.githubusercontent.com/camilourd/IDU_Data/master/pines/ico_02_notselect.png",
@@ -94,7 +93,6 @@
             {
                 "tag": "valorización",
                 "color": "#B22808",
-                "icono": "http://pqr.idu.gov.co/img/icono_construccion.png",
                 "icono": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/pines/ico_04.png",
                 "iconos_de_pines" : {
                     "resolucion_muy_baja" : "https://raw.githubusercontent.com/camilourd/IDU_Data/master/pines/ico_04_notselect.png",
