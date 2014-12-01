@@ -117,83 +117,283 @@
         "localidades": [
             {
                 "localidad": "Antonio_Nariño",
-                "numero_de_obras": 0
+                "numero_de_obras": 0,
+				"geometries": [
+					{
+						"coordinates": [
+							-74.1028424011415,
+							4.58877067503028
+						],
+						"type": "Point"
+					}
+				],
+				"boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/AntonioNarino.json"
             },
 			{
                 "localidad": "Barrios_Unidos",
-                "numero_de_obras": 0
+                "numero_de_obras": 0,
+				"geometries": [
+					{
+						"coordinates": [
+							-74.0735516053363,
+							4.6695669337193
+						],
+						"type": "Point"
+					}
+				],
+				"boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/BarriosUnidos.json"
             },
 			{
                 "localidad": "Bosa",
-                "numero_de_obras": 6
+                "numero_de_obras": 6,
+				"geometries": [
+					{
+						"coordinates": [
+							-74.1943874469536,
+							4.62177744096788
+						],
+						"type": "Point"
+					}
+				],
+				"boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/Bosa.json"
             },
 			{
                 "localidad": "Chapinero",
-                "numero_de_obras": 5
+                "numero_de_obras": 5,
+				"geometries": [
+					{
+						"coordinates": [
+							-74.0368830256635,
+							4.64498272017399
+						],
+						"type": "Point"
+					}
+				],
+				"boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/Chapinero.json"
             },
 			{
                 "localidad": "Ciudad Bolivar",
-                "numero_de_obras": 3
+                "numero_de_obras": 3,
+				"geometries": [
+					{
+						"coordinates": [
+							-74.1619573092099,
+							4.48244954764114
+						],
+						"type": "Point"
+					}
+				],
+				"boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/CuidadBolivar.json"
             },
 			{
                 "localidad": "Engativa",
-                "numero_de_obras": 4
+                "numero_de_obras": 4,
+				"geometries": [
+					{
+						"coordinates": [
+							-74.1131877021726,
+							4.70112556225215
+						],
+						"type": "Point"
+					}
+				],
+				"boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/Engativa.json"
             },
 			{
                 "localidad": "Fontibon",
-                "numero_de_obras": 3
+                "numero_de_obras": 3,
+				"geometries": [
+					{
+						"coordinates": [
+							-74.140151298465,
+							4.67818292491529
+						],
+						"type": "Point"
+					}
+				],
+				"boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/Fontibon.json"
             },
 			{
                 "localidad": "Kennedy",
-                "numero_de_obras": 6
+                "numero_de_obras": 6,
+				"geometries": [
+					{
+						"coordinates": [
+							-74.1526676235548,
+							4.63034735100552
+						],
+						"type": "Point"
+					}
+				],
+				"boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/Kennedy.json"
             },
 			{
                 "localidad": "La_Candelaria",
-                "numero_de_obras": 2
+                "numero_de_obras": 2,
+				"geometries": [
+					{
+						"coordinates": [
+							-74.0720707956031,
+							4.59660507539513
+						],
+						"type": "Point"
+					}
+				],
+				"boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/Candelaria.json"
             },
 			{
                 "localidad": "Los_Martires",
-                "numero_de_obras": 2
+                "numero_de_obras": 2,
+				"geometries": [
+					{
+						"coordinates": [
+							-74.0879478683923,
+							4.6071559352803
+						],
+						"type": "Point"
+					}
+				],
+				"boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/Martires.json"
             },
 			{
                 "localidad": "Puente_Aranda",
-                "numero_de_obras": 3
+                "numero_de_obras": 3,
+				"geometries": [
+					{
+						"coordinates": [
+							-74.1115802339541,
+							4.61624547044465
+						],
+						"type": "Point"
+					}
+				],
+				"boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/PuenteAranda.json"
             },
 			{
                 "localidad": "Rafael_Uribe_Uribe",
-                "numero_de_obras": 7
+                "numero_de_obras": 7,
+				"geometries": [
+					{
+						"coordinates": [
+							-74.1133631832176,
+							4.56647690107243
+						],
+						"type": "Point"
+					}
+				],
+				"boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/RafaelUribeUribe.json"
             },
 			{
                 "localidad": "San_Cristobal",
-                "numero_de_obras": 4
+                "numero_de_obras": 4,
+				"geometries": [
+					{
+						"coordinates": [
+							-74.0660725725113,
+							4.54874905190077
+						],
+						"type": "Point"
+					}
+				],
+				"boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/SanCristobal.json"
             },
 			{
                 "localidad": "SantaFe",
-                "numero_de_obras": 7
+                "numero_de_obras": 7,
+				"geometries": [
+					{
+						"coordinates": [
+							-74.0362175795846,
+							4.59397273004256
+						],
+						"type": "Point"
+					}
+				],
+				"boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/SantaFe.json"
             },
 			{
                 "localidad": "Suba",
-                "numero_de_obras": 10
+                "numero_de_obras": 10,
+				"geometries": [
+					{
+						"coordinates": [
+							-74.0758452319465,
+							4.7632081974875
+						],
+						"type": "Point"
+					}
+				],
+				"boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/Suba.json"
             },
 			{
                 "localidad": "Sumapaz",
-                "numero_de_obras": 0
+                "numero_de_obras": 0,
+				"geometries": [
+					{
+						"coordinates": [
+							-74.2569811680057,
+							4.03656785214746
+						],
+						"type": "Point"
+					}
+				],
+				"boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/Sumapaz.json"
             },
 			{
                 "localidad": "Teusaquillo",
-                "numero_de_obras": 2
+                "numero_de_obras": 2,
+				"geometries": [
+					{
+						"coordinates": [
+							-74.0857690199239,
+							4.64117358675497
+						],
+						"type": "Point"
+					}
+				],
+				"boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/Teusaquillo.json"
             },
 			{
                 "localidad": "Tunjuelito",
-                "numero_de_obras": 1
+                "numero_de_obras": 1,
+				"geometries": [
+					{
+						"coordinates": [
+							-74.135989451695,
+							4.57484139874761
+						],
+						"type": "Point"
+					}
+				],
+				"boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/Tunjuelito.json"
             },
 			{
                 "localidad": "Usaquen",
-                "numero_de_obras": 6
+                "numero_de_obras": 6,
+				"geometries": [
+					{
+						"coordinates": [
+							-74.0278248326895,
+							4.74209241283316
+						],
+						"type": "Point"
+					}
+				],
+				"boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/Usaquen.json"
             },
 			{
                 "localidad": "Usme",
-                "numero_de_obras": 7
+                "numero_de_obras": 7,
+				"geometries": [
+					{
+						"coordinates": [
+							-74.142806583082,
+							4.3900250090727
+						],
+						"type": "Point"
+					}
+				],
+				"boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/Usme.json"
             }
         ]
     },
