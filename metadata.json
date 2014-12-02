@@ -8,6 +8,7 @@
         "tags": [
             {
                 "tag": "construcción",
+				"texto": "CONSTRUCCIÓN",
                 "color": "#218284",
                 "icono": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/imagenes/ico_01.png",
                 "iconos_de_pines" : {
@@ -29,6 +30,7 @@
             },
             {
                 "tag": "cupo de endeudamiento",
+				"texto": "CUPO DE ENDEUDAMIENTO",
                 "color": "#A59F29",
                 "icono": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/imagenes/ico_03.png",
                 "iconos_de_pines" : {
@@ -50,6 +52,7 @@
             },
             {
                 "tag": "mantenimiento",
+				"texto": "MANTENIMIENTO",
                 "color": "#F38630",
                 "icono": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/imagenes/ico_02.png",
                 "iconos_de_pines" : {
@@ -71,6 +74,7 @@
             },
             {
                 "tag": "metro",
+				"texto": "METRO",
                 "color": "#E80597",
                 "icono": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/imagenes/ico_05.png",
                 "iconos_de_pines" : {
@@ -92,6 +96,7 @@
             },
             {
                 "tag": "valorización",
+				"texto": "VALORIZACIÓN",
                 "color": "#B22808",
                 "icono": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/imagenes/ico_04.png",
                 "iconos_de_pines" : {
