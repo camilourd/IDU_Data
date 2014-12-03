@@ -130,10 +130,10 @@
 							4.58877067503028
 						],
 						"type": "Point",
-						"zoom": [
-							latitudDelta: 0.015,
-							longitudDelta: 0.015
-						]
+						"zoom": {
+							"latitudeDelta": 0.015,
+							"longitudeDelta": 0.015
+						}
 					}
 				],
 				"boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/AntonioNarino.json"
@@ -148,10 +148,10 @@
 							4.6695669337193
 						],
 						"type": "Point",
-						"zoom": [
-							latitudDelta: 0.015,
-							longitudDelta: 0.015
-						]
+						"zoom": {
+							"latitudeDelta": 0.015,
+							"longitudeDelta": 0.015
+						}
 					}
 				],
 				"boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/BarriosUnidos.json"
@@ -166,10 +166,10 @@
 							4.62177744096788
 						],
 						"type": "Point",
-						"zoom": [
-							latitudDelta: 0.015,
-							longitudDelta: 0.015
-						]
+						"zoom": {
+							"latitudeDelta": 0.015,
+							"longitudeDelta": 0.015
+						}
 					}
 				],
 				"boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/Bosa.json"
@@ -184,10 +184,10 @@
 							4.64498272017399
 						],
 						"type": "Point",
-						"zoom": [
-							latitudDelta: 0.015,
-							longitudDelta: 0.015
-						]
+						"zoom": {
+							"latitudeDelta": 0.015,
+							"longitudeDelta": 0.015
+						}
 					}
 				],
 				"boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/Chapinero.json"
@@ -202,10 +202,10 @@
 							4.48244954764114
 						],
 						"type": "Point",
-						"zoom": [
-							latitudeDelta: 0.015,
-							longitudeDelta: 0.015
-						]
+						"zoom": {
+							"latitudeDelta": 0.015,
+							"longitudeDelta": 0.015
+						}
 					}
 				],
 				"boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/CuidadBolivar.json"
@@ -220,10 +220,10 @@
 							4.70112556225215
 						],
 						"type": "Point",
-						"zoom": [
-							latitudeDelta: 0.015,
-							longitudeDelta: 0.015
-						]
+						"zoom": {
+							"latitudeDelta": 0.015,
+							"longitudeDelta": 0.015
+						}
 					}
 				],
 				"boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/Engativa.json"
@@ -238,10 +238,10 @@
 							4.67818292491529
 						],
 						"type": "Point",
-						"zoom": [
-							latitudeDelta: 0.015,
-							longitudeDelta: 0.015
-						]
+						"zoom": {
+							"latitudeDelta": 0.015,
+							"longitudeDelta": 0.015
+						}
 					}
 				],
 				"boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/Fontibon.json"
@@ -256,10 +256,10 @@
 							4.63034735100552
 						],
 						"type": "Point",
-						"zoom": [
-							latitudeDelta: 0.015,
-							longitudeDelta: 0.015
-						]
+						"zoom": {
+							"latitudeDelta": 0.015,
+							"longitudeDelta": 0.015
+						}
 					}
 				],
 				"boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/Kennedy.json"
@@ -274,10 +274,10 @@
 							4.59660507539513
 						],
 						"type": "Point",
-						"zoom": [
-							latitudeDelta: 0.015,
-							longitudeDelta: 0.015
-						]
+						"zoom": {
+							"latitudeDelta": 0.015,
+							"longitudeDelta": 0.015
+						}
 					}
 				],
 				"boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/Candelaria.json"
@@ -292,10 +292,10 @@
 							4.6071559352803
 						],
 						"type": "Point",
-						"zoom": [
-							latitudeDelta: 0.015,
-							longitudeDelta: 0.015
-						]
+						"zoom": {
+							"latitudeDelta": 0.015,
+							"longitudeDelta": 0.015
+						}
 					}
 				],
 				"boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/Martires.json"
@@ -310,10 +310,10 @@
 							4.61624547044465
 						],
 						"type": "Point",
-						"zoom": [
-							latitudeDelta: 0.015,
-							longitudeDelta: 0.015
-						]
+						"zoom": {
+							"latitudeDelta": 0.015,
+							"longitudeDelta": 0.015
+						}
 					}
 				],
 				"boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/PuenteAranda.json"
@@ -328,10 +328,10 @@
 							4.56647690107243
 						],
 						"type": "Point",
-						"zoom": [
-							latitudeDelta: 0.015,
-							longitudeDelta: 0.015
-						]
+						"zoom": {
+							"latitudeDelta": 0.015,
+							"longitudeDelta": 0.015
+						}
 					}
 				],
 				"boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/RafaelUribeUribe.json"
@@ -346,10 +346,10 @@
 							4.54874905190077
 						],
 						"type": "Point",
-						"zoom": [
-							latitudeDelta: 0.015,
-							longitudeDelta: 0.015
-						]
+						"zoom": {
+							"latitudeDelta": 0.015,
+							"longitudeDelta": 0.015
+						}
 					}
 				],
 				"boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/SanCristobal.json"
@@ -364,10 +364,10 @@
 							4.59397273004256
 						],
 						"type": "Point",
-						"zoom": [
-							latitudeDelta: 0.015,
-							longitudeDelta: 0.015
-						]
+						"zoom": {
+							"latitudeDelta": 0.015,
+							"longitudeDelta": 0.015
+						}
 					}
 				],
 				"boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/SantaFe.json"
@@ -382,10 +382,10 @@
 							4.7632081974875
 						],
 						"type": "Point",
-						"zoom": [
-							latitudeDelta: 0.015,
-							longitudeDelta: 0.015
-						]
+						"zoom": {
+							"latitudeDelta": 0.015,
+							"longitudeDelta": 0.015
+						}
 					}
 				],
 				"boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/Suba.json"
@@ -400,10 +400,10 @@
 							4.03656785214746
 						],
 						"type": "Point",
-						"zoom": [
-							latitudeDelta: 0.015,
-							longitudeDelta: 0.015
-						]
+						"zoom": {
+							"latitudeDelta": 0.015,
+							"longitudeDelta": 0.015
+						}
 					}
 				],
 				"boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/Sumapaz.json"
@@ -418,10 +418,10 @@
 							4.64117358675497
 						],
 						"type": "Point",
-						"zoom": [
-							latitudeDelta: 0.015,
-							longitudeDelta: 0.015
-						]
+						"zoom": {
+							"latitudeDelta": 0.015,
+							"longitudeDelta": 0.015
+						}
 					}
 				],
 				"boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/Teusaquillo.json"
@@ -436,10 +436,10 @@
 							4.57484139874761
 						],
 						"type": "Point",
-						"zoom": [
-							latitudeDelta: 0.015,
-							longitudeDelta: 0.015
-						]
+						"zoom": {
+							"latitudeDelta": 0.015,
+							"longitudeDelta": 0.015
+						}
 					}
 				],
 				"boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/Tunjuelito.json"
@@ -454,10 +454,10 @@
 							4.74209241283316
 						],
 						"type": "Point",
-						"zoom": [
-							latitudeDelta: 0.015,
-							longitudeDelta: 0.015
-						]
+						"zoom": {
+							"latitudeDelta": 0.015,
+							"longitudeDelta": 0.015
+						}
 					}
 				],
 				"boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/Usaquen.json"
@@ -472,10 +472,10 @@
 							4.3900250090727
 						],
 						"type": "Point",
-						"zoom": [
-							latitudeDelta: 0.015,
-							longitudeDelta: 0.015
-						]
+						"zoom": {
+							"latitudeDelta": 0.015,
+							"longitudeDelta": 0.015
+						}
 					}
 				],
 				"boundariesURL": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/localityBoundaries/Usme.json"
