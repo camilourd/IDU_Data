@@ -126,13 +126,13 @@
 				"geometries": [
 					{
 						"coordinates": [
-							-74.1028424011415,
-							4.58877067503028
+							-74.107845,
+							4.589537
 						],
 						"type": "Point",
 						"zoom": {
-							"latitudeDelta": 0.015,
-							"longitudeDelta": 0.015
+							"latitudeDelta": 0.03,
+							"longitudeDelta": 0.03
 						}
 					}
 				],
@@ -144,13 +144,13 @@
 				"geometries": [
 					{
 						"coordinates": [
-							-74.0735516053363,
-							4.6695669337193
+							-74.076223,
+							4.668754
 						],
 						"type": "Point",
 						"zoom": {
-							"latitudeDelta": 0.015,
-							"longitudeDelta": 0.015
+							"latitudeDelta": 0.03,
+							"longitudeDelta": 0.03
 						}
 					}
 				],
@@ -162,13 +162,13 @@
 				"geometries": [
 					{
 						"coordinates": [
-							-74.1943874469536,
-							4.62177744096788
+							-74.188583,
+							4.620972
 						],
 						"type": "Point",
 						"zoom": {
-							"latitudeDelta": 0.015,
-							"longitudeDelta": 0.015
+							"latitudeDelta": 0.046,
+							"longitudeDelta": 0.046
 						}
 					}
 				],
@@ -180,13 +180,13 @@
 				"geometries": [
 					{
 						"coordinates": [
-							-74.0368830256635,
-							4.64498272017399
+							-74.029986,
+							4.646804
 						],
 						"type": "Point",
 						"zoom": {
-							"latitudeDelta": 0.015,
-							"longitudeDelta": 0.015
+							"latitudeDelta": 0.05,
+							"longitudeDelta": 0.05
 						}
 					}
 				],
@@ -198,13 +198,13 @@
 				"geometries": [
 					{
 						"coordinates": [
-							-74.1619573092099,
-							4.48244954764114
+							-74.163949,
+							4.492024
 						],
 						"type": "Point",
 						"zoom": {
-							"latitudeDelta": 0.015,
-							"longitudeDelta": 0.015
+							"latitudeDelta": 0.2,
+							"longitudeDelta": 0.2
 						}
 					}
 				],
@@ -216,13 +216,13 @@
 				"geometries": [
 					{
 						"coordinates": [
-							-74.1131877021726,
-							4.70112556225215
+							-74.119335,
+							4.698208
 						],
 						"type": "Point",
 						"zoom": {
-							"latitudeDelta": 0.015,
-							"longitudeDelta": 0.015
+							"latitudeDelta": 0.05,
+							"longitudeDelta": 0.05
 						}
 					}
 				],
@@ -234,13 +234,13 @@
 				"geometries": [
 					{
 						"coordinates": [
-							-74.140151298465,
-							4.67818292491529
+							-74.14293,
+							4.676819
 						],
 						"type": "Point",
 						"zoom": {
-							"latitudeDelta": 0.015,
-							"longitudeDelta": 0.015
+							"latitudeDelta": 0.05,
+							"longitudeDelta": 0.05
 						}
 					}
 				],
@@ -252,13 +252,13 @@
 				"geometries": [
 					{
 						"coordinates": [
-							-74.1526676235548,
-							4.63034735100552
+							-74.150698,
+							4.630107
 						],
 						"type": "Point",
 						"zoom": {
-							"latitudeDelta": 0.015,
-							"longitudeDelta": 0.015
+							"latitudeDelta": 0.05,
+							"longitudeDelta": 0.05
 						}
 					}
 				],
@@ -270,13 +270,13 @@
 				"geometries": [
 					{
 						"coordinates": [
-							-74.0720707956031,
-							4.59660507539513
+							-74.070331,
+							4.596524
 						],
 						"type": "Point",
 						"zoom": {
-							"latitudeDelta": 0.015,
-							"longitudeDelta": 0.015
+							"latitudeDelta": 0.02,
+							"longitudeDelta": 0.02
 						}
 					}
 				],
@@ -288,13 +288,13 @@
 				"geometries": [
 					{
 						"coordinates": [
-							-74.0879478683923,
-							4.6071559352803
+							-74.090012,
+							4.607771
 						],
 						"type": "Point",
 						"zoom": {
-							"latitudeDelta": 0.015,
-							"longitudeDelta": 0.015
+							"latitudeDelta": 0.03,
+							"longitudeDelta": 0.03
 						}
 					}
 				],
@@ -306,13 +306,13 @@
 				"geometries": [
 					{
 						"coordinates": [
-							-74.1115802339541,
-							4.61624547044465
+							-74.112193,
+							4.617094
 						],
 						"type": "Point",
 						"zoom": {
-							"latitudeDelta": 0.015,
-							"longitudeDelta": 0.015
+							"latitudeDelta": 0.05,
+							"longitudeDelta": 0.05
 						}
 					}
 				],
@@ -324,13 +324,13 @@
 				"geometries": [
 					{
 						"coordinates": [
-							-74.1133631832176,
-							4.56647690107243
+							-74.115039,
+							4.565074
 						],
 						"type": "Point",
 						"zoom": {
-							"latitudeDelta": 0.015,
-							"longitudeDelta": 0.015
+							"latitudeDelta": 0.05,
+							"longitudeDelta": 0.05
 						}
 					}
 				],
@@ -342,13 +342,13 @@
 				"geometries": [
 					{
 						"coordinates": [
-							-74.0660725725113,
-							4.54874905190077
+							-74.067502,
+							4.549414
 						],
 						"type": "Point",
 						"zoom": {
-							"latitudeDelta": 0.015,
-							"longitudeDelta": 0.015
+							"latitudeDelta": 0.05,
+							"longitudeDelta": 0.05
 						}
 					}
 				],
@@ -360,13 +360,13 @@
 				"geometries": [
 					{
 						"coordinates": [
-							-74.0362175795846,
-							4.59397273004256
+							-74.041336,
+							4.592532
 						],
 						"type": "Point",
 						"zoom": {
-							"latitudeDelta": 0.015,
-							"longitudeDelta": 0.015
+							"latitudeDelta": 0.05,
+							"longitudeDelta": 0.05
 						}
 					}
 				],
@@ -378,13 +378,13 @@
 				"geometries": [
 					{
 						"coordinates": [
-							-74.0758452319465,
-							4.7632081974875
+							-74.074382,
+							4.762934
 						],
 						"type": "Point",
 						"zoom": {
-							"latitudeDelta": 0.015,
-							"longitudeDelta": 0.015
+							"latitudeDelta": 0.1,
+							"longitudeDelta": 0.1
 						}
 					}
 				],
@@ -396,13 +396,13 @@
 				"geometries": [
 					{
 						"coordinates": [
-							-74.2569811680057,
-							4.03656785214746
+							-74.267489,
+							4.00042
 						],
 						"type": "Point",
 						"zoom": {
-							"latitudeDelta": 0.015,
-							"longitudeDelta": 0.015
+							"latitudeDelta": 0.4,
+							"longitudeDelta": 0.4
 						}
 					}
 				],
@@ -414,13 +414,13 @@
 				"geometries": [
 					{
 						"coordinates": [
-							-74.0857690199239,
-							4.64117358675497
+							-74.08748,
+							4.641203
 						],
 						"type": "Point",
 						"zoom": {
-							"latitudeDelta": 0.015,
-							"longitudeDelta": 0.015
+							"latitudeDelta": 0.04,
+							"longitudeDelta": 0.04
 						}
 					}
 				],
@@ -432,13 +432,13 @@
 				"geometries": [
 					{
 						"coordinates": [
-							-74.135989451695,
-							4.57484139874761
+							-74.139053,
+							4.570191
 						],
 						"type": "Point",
 						"zoom": {
-							"latitudeDelta": 0.015,
-							"longitudeDelta": 0.015
+							"latitudeDelta": 0.04,
+							"longitudeDelta": 0.04
 						}
 					}
 				],
@@ -450,13 +450,13 @@
 				"geometries": [
 					{
 						"coordinates": [
-							-74.0278248326895,
-							4.74209241283316
+							-74.026015,
+							4.744704
 						],
 						"type": "Point",
 						"zoom": {
-							"latitudeDelta": 0.015,
-							"longitudeDelta": 0.015
+							"latitudeDelta": 0.1,
+							"longitudeDelta": 0.1
 						}
 					}
 				],
@@ -468,13 +468,13 @@
 				"geometries": [
 					{
 						"coordinates": [
-							-74.142806583082,
-							4.3900250090727
+							-74.138944,
+							4.407949
 						],
 						"type": "Point",
 						"zoom": {
-							"latitudeDelta": 0.015,
-							"longitudeDelta": 0.015
+							"latitudeDelta": 0.2,
+							"longitudeDelta": 0.2
 						}
 					}
 				],
