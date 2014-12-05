@@ -1,14 +1,14 @@
 {
     "configuracion": {
         "filtro_inicial": {
-            "localidad": "La Candelaria",
+            "localidad": "Kennedy",
             "mensaje": "Conozca las estaciones del metro de Kennedy",
-            "tag": "valorización"
+            "tag": "metro"
         },
         "tags": [
             {
                 "tag": "construcción",
-				"texto": "CONSTRUCCIÓN",
+				"texto": "CONSTRUCCIÓNN",
                 "color": "#218284",
                 "icono": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/imagenes/ico_01.png",
                 "iconos_de_pines" : {
