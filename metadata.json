@@ -8,7 +8,7 @@
         "tags": [
             {
                 "tag": "construcción",
-				"texto": "CONSTRUCCIÓNN",
+				"texto": "CONSTRUCCIÓN",
                 "color": "#218284",
                 "icono": "https://raw.githubusercontent.com/camilourd/IDU_Data/master/imagenes/ico_01.png",
                 "iconos_de_pines" : {
@@ -122,7 +122,7 @@
         "localidades": [
             {
                 "localidad": "Antonio Nariño",
-                "numero_de_obras": 1,
+                "numero_de_obras": 0,
 				"geometries": [
 					{
 						"coordinates": [
