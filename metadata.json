@@ -1,9 +1,9 @@
 {
     "configuracion": {
         "filtro_inicial": {
-            "localidad": "Kennedy",
+            "localidad": "La Candelaria",
             "mensaje": "Conozca las estaciones del metro de Kennedy",
-            "tag": "metro"
+            "tag": "valorización"
         },
         "tags": [
             {
